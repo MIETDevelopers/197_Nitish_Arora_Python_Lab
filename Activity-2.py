@@ -1,6 +1,6 @@
 '''Purpose:Write a program to illustrate iteration over the list and dictionary.
 
-Author: Archit Gandotra
+Author: Nitish Arora
 '''
 
 # Method #1: Using For loop
